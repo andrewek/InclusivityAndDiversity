@@ -151,6 +151,6 @@ certain age in order to access features)?
 
 ##Additional Readings##
 
-+ [A Web for Everyone: Designing Accessible User Experiences, Sarah Horton and Whitney Quesenbery](http://www.amazon.com/Web-Everyone-Designing-Accessible-Experiences/dp/1933820977/)
-+ [Accessibility Handbook, Katie Cunningham](http://www.amazon.com/Accessibility-Handbook-Katie-Cunningham/dp/1449322859/)
-+ [Web Accessibility: Web Standards and Regulatory Compliance, Richard Rutter et al.](http://www.amazon.com/Web-Accessibility-Standards-Regulatory-Compliance/dp/1590596382/)
++ [A Web for Everyone: Designing Accessible User Experiences](http://www.amazon.com/Web-Everyone-Designing-Accessible-Experiences/dp/1933820977/), Sarah Horton and Whitney Quesenbery
++ [Accessibility Handbook](http://www.amazon.com/Accessibility-Handbook-Katie-Cunningham/dp/1449322859/), Katie Cunningham
++ [Web Accessibility: Web Standards and Regulatory Compliance](http://www.amazon.com/Web-Accessibility-Standards-Regulatory-Compliance/dp/1590596382/), Richard Rutter et al.
